@@ -15,12 +15,12 @@ public class HelloWorld{
 
 /*
 jack	123	abc
-tom	    456	def
+tom	456	def
 jerry	789	ghi
 Lily	111	jkl
 Nacy	222	mno
 ========================
-tom	    456	def
+tom	456	def
 jerry	789	ghi
 Lily	111	jkl
 */
